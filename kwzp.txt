@@ -4,3 +4,5 @@ Maciej Kowalski
 Zajêcia z GIT
 
 Jestê programist¹ Pawe³ Kosno
+
+ZMIANY
