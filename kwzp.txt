@@ -5,8 +5,10 @@ Zajêcia z GIT
 
 Jestê programist¹ Pawe³ Kosno
 
-<<<<<<< HEAD
+
 ZMIANY
-=======
+
 tu te¿ coœ zmieniam
->>>>>>> 19317e3db785841cf3cc5b2df29ac3f8cb996fad
+
+aaaaaa
+
