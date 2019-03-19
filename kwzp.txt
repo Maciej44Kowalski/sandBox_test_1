@@ -6,9 +6,5 @@ Zajêcia z GIT
 Jestê programist¹ Pawe³ Kosno
 
 
-ZMIANY
-
-tu te¿ coœ zmieniam
-
-aaaaaa
-
+//ZMIANY 19.03.2019
+test na laptopie
